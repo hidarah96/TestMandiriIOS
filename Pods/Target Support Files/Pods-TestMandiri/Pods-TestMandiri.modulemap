@@ -1,0 +1,6 @@
+framework module Pods_TestMandiri {
+  umbrella header "Pods-TestMandiri-umbrella.h"
+
+  export *
+  module * { export * }
+}
